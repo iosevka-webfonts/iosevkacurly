@@ -1,4 +1,4 @@
-# Iosevkacurly WebFont 32.5.0
+# Iosevkacurly WebFont 33.0.1
 
 ## How to use
 
